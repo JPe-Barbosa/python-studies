@@ -1,1 +1,1 @@
-interesing programs developed in FreeCodeCamp.org video: https://www.youtube.com/watch?v=rfscVS0vtbw as well as some experimentations. I've also include my notes taken during the video but they are in portuguese
+interesing programs developed in FreeCodeCamp.org video https://www.youtube.com/watch?v=rfscVS0vtbw as well as some experimentations. I've also include my notes taken during the video but they are in portuguese
