@@ -1,0 +1,13 @@
+Product,Order ID,Order Date,category,sub_category,brand,sale_price,market_price,type,rating,Quantity Ordered,Pesquisa
+Moisture Rich Jasmine Soap - For Moms,143254,13/01/21 11:31,Baby Care,Mothers & Maternity,Himalaya,70.0,70.0,Maternity Personal Care,4.4,1,"['Internet', 'Ruim', 'Online']"
+Classic Spin Mop With Wheels & 2 Refills - Aqua Green,143254,13/01/21 11:31,Cleaning & Household,"Mops, Brushes & Scrubs",Milton - Spotzero,1699.0,1699.0,"Mops, Wipers",3.3,1,"[0, 'Física', 'Ótimo']"
+Supreme Scalp Soothing Shampoo,143254,13/01/21 11:31,Beauty & Hygiene,Hair Care,Head & shoulders,220.0,220.0,Shampoo & Conditioner,5.0,1,"['Física', 0, 'Outros']"
+Manicure Set In Case,143254,13/01/21 11:31,Baby Care,Baby Accessories,Vauva,175.0,175.0,"Combs, Brushes, Clippers",4.5,1,"[0, 'Indicação', 0]"
+Copper Water Mug/Cup - Hammered,143254,13/01/21 11:31,"Kitchen, Garden & Pets",Steel Utensils,Frestol,1612.0,1612.0,Plates & Tumblers,5.0,1,"['Física', 'Péssimo', 'Outros']"
+FunFoods Veg Mayonnaise for Burger,143254,13/01/21 11:31,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",Dr. Oetker,75.0,75.0,Mayonnaise,4.3,1,"['Internet', 'Ótimo', 0]"
+Double Chicken Pepperoni Pizza,143255,15/01/21 20:23,Snacks & Branded Foods,Frozen Veggies & Snacks,Iceland,295.0,295.0,Frozen Non-Veg Snacks,3.5,1,"['Online', 'Placas', 'Ruim']"
+Papad - Aloo,143255,15/01/21 20:23,Snacks & Branded Foods,Ready To Cook & Eat,Saravanas,40.0,40.0,"Papads, Ready To Fry",3.3,1,"[0, 'Internet', 'Péssimo']"
+Natural Stretch Marks Oil,143255,15/01/21 20:23,Beauty & Hygiene,Skin Care,The Moms Co,393.0,393.0,Body Care,4.2,1,"['Outros', 'Bom', 0]"
+Original Fruit Flavoured Candies,143255,15/01/21 20:23,Gourmet & World Food,Chocolates & Biscuits,Skittles,30.0,30.0,International Chocolates,4.7,1,"['Física', 'Indicação', 'Péssimo']"
+6-In-1 Face Wash - Sulphate Free,143256,09/01/21 20:38,Beauty & Hygiene,Skin Care,Organic Harvest,225.0,225.0,Face Care,3.5,1,"['Placas', 0, 'Ruim']"
+Cashew/Godambis - Spanish Chilli Dry Roasted,143256,09/01/21 20:38,"Foodgrains, Oil & Masala",Dry Fruits,Delicious,149.0,149.0,Cashews,3.8,1,"[0, 0, 'Online']"
